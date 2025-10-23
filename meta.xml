@@ -1,0 +1,9 @@
+<meta>
+    <info author="Atlas" version="1.0" name="Sistema Quit (FIVEM)"/>
+
+    <script cache = 'false' type = 'shared' src = 'settings.lua' />
+    <script cache = 'false' type = 'shared' src = 'source/shared/*.lua' />
+    <script cache = 'false' type = 'client' src = 'source/client/*.lua' />
+    <script cache = 'false' type = 'server' src = 'source/server/*.lua' />
+    <min_mta_version server="1.6.0" client="1.6.0" />
+</meta>
