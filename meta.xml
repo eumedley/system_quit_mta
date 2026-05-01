@@ -1,5 +1,5 @@
 <meta>
-    <info author="Atlas" version="1.0" name="Sistema Quit (FIVEM)"/>
+    <info author="Medley" version="1.0" name="Sistema Quit (FIVEM)"/>
 
     <script cache = 'false' type = 'shared' src = 'settings.lua' />
     <script cache = 'false' type = 'shared' src = 'source/shared/*.lua' />
