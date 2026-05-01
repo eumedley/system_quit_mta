@@ -16,5 +16,5 @@ settings = {
         ['Bad Connection'] = 'Conexão ruim',
         ['Timed out'] = 'Tempo esgotado',
     },
-    ['webhook'] = 'https://discord.com/api/webhooks/1430943323052310652/a8lT7aHdNGloqeSyFjVUfbBNk_HI7JQr3Xm5jTNhYGYGT8C2asjCI5o0iyBs-QadLPR8';
+    ['webhook'] = '';
 }
